@@ -1,0 +1,19 @@
+Dataset Explanation
+The data (from Kaggle- https://www.kaggle.com/datasets/adampq/linkedin-jobs-machine-learning-data-set) comprises job-related information from LinkedIn job postings scraped over a 2-day period. Key features include company details and job-specific information.
+The database information can shed light on the salary characteristics offered in LinkedIn jobs in comparison to place of residence, required level of experience, company size, including a combination of several characteristics together.
+
+# My Python Data Analysis Projec
+In this project, I conducted an in-depth analysis of job market data using Python. I utilized the pandas library for data manipulation and cleaning, processing over 100,000 job records. I applied various statistical methods to identify trends and correlations between factors such as company size, geographic region, experience level, and salaries.
+To present my findings, I used visualization libraries matplotlib and seaborn to create a variety of graphs. These included heat maps to display correlations, bar charts to compare salaries across regions and experience levels, and line graphs to show trends over time. Additionally, I created charts comparing the number of job views by company size and work arrangement (remote or office-based).
+My analysis revealed interesting insights, such as the impact of remote work on job popularity and the relationship between company size and salary levels for different positions. This comprehensive approach to data analysis and visualization allowed me to demonstrate a strong command of Python's data science ecosystem and my ability to extract meaningful insights from complex datasets.
+
+Key findings from my analysis included:
+- Regional salary differences, with California and Washington offering the highest potential salaries
+- An unexpected trend of tiny companies receiving the most job views on average
+- The effectiveness of job sponsoring in increasing view counts
+- Higher popularity of remote work positions despite their lower availability
+
+This project not only enhanced my skills in data analysis and Python programming but also provided valuable insights into current job market trends.
+
+
+
